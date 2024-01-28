@@ -1,4 +1,4 @@
-class Rettangolo extends Forma {
+public class Rettangolo extends Forma {
     private int altezza;
     private int base;
 
